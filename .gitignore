@@ -1,0 +1,12 @@
+venv/\n__pycache__/\n*.pyc\n/data/\n*.ckpt\n.env
+# 忽略数据集
+/data/
+*.h5
+*.npy
+*.pcd
+*.bin
+
+# 忽略虚拟环境
+ir_env/
+__pycache__/
+*.pyc
